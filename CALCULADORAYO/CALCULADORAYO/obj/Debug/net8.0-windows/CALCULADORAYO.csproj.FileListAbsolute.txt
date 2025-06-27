@@ -1,0 +1,16 @@
+C:\Users\Acer Aspire 11TH\source\repos\CALCULADORAYO\CALCULADORAYO\bin\Debug\net8.0-windows\CALCULADORAYO.exe
+C:\Users\Acer Aspire 11TH\source\repos\CALCULADORAYO\CALCULADORAYO\bin\Debug\net8.0-windows\CALCULADORAYO.deps.json
+C:\Users\Acer Aspire 11TH\source\repos\CALCULADORAYO\CALCULADORAYO\bin\Debug\net8.0-windows\CALCULADORAYO.runtimeconfig.json
+C:\Users\Acer Aspire 11TH\source\repos\CALCULADORAYO\CALCULADORAYO\bin\Debug\net8.0-windows\CALCULADORAYO.dll
+C:\Users\Acer Aspire 11TH\source\repos\CALCULADORAYO\CALCULADORAYO\bin\Debug\net8.0-windows\CALCULADORAYO.pdb
+C:\Users\Acer Aspire 11TH\source\repos\CALCULADORAYO\CALCULADORAYO\obj\Debug\net8.0-windows\CALCULADORAYO.csproj.GenerateResource.cache
+C:\Users\Acer Aspire 11TH\source\repos\CALCULADORAYO\CALCULADORAYO\obj\Debug\net8.0-windows\CALCULADORAYO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Aspire 11TH\source\repos\CALCULADORAYO\CALCULADORAYO\obj\Debug\net8.0-windows\CALCULADORAYO.AssemblyInfoInputs.cache
+C:\Users\Acer Aspire 11TH\source\repos\CALCULADORAYO\CALCULADORAYO\obj\Debug\net8.0-windows\CALCULADORAYO.AssemblyInfo.cs
+C:\Users\Acer Aspire 11TH\source\repos\CALCULADORAYO\CALCULADORAYO\obj\Debug\net8.0-windows\CALCULADORAYO.csproj.CoreCompileInputs.cache
+C:\Users\Acer Aspire 11TH\source\repos\CALCULADORAYO\CALCULADORAYO\obj\Debug\net8.0-windows\CALCULADORAYO.dll
+C:\Users\Acer Aspire 11TH\source\repos\CALCULADORAYO\CALCULADORAYO\obj\Debug\net8.0-windows\refint\CALCULADORAYO.dll
+C:\Users\Acer Aspire 11TH\source\repos\CALCULADORAYO\CALCULADORAYO\obj\Debug\net8.0-windows\CALCULADORAYO.pdb
+C:\Users\Acer Aspire 11TH\source\repos\CALCULADORAYO\CALCULADORAYO\obj\Debug\net8.0-windows\CALCULADORAYO.genruntimeconfig.cache
+C:\Users\Acer Aspire 11TH\source\repos\CALCULADORAYO\CALCULADORAYO\obj\Debug\net8.0-windows\ref\CALCULADORAYO.dll
+C:\Users\Acer Aspire 11TH\source\repos\CALCULADORAYO\CALCULADORAYO\obj\Debug\net8.0-windows\CALCULADORAYO.calculadora.resources
