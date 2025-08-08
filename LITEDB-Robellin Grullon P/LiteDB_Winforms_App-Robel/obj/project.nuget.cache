@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I1wRnCIeej4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thebr\\Desktop\\Programa para grabar elementos\\LiteDB_Winforms_App-Robel\\LiteDB_Winforms_App-Robel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thebr\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
+    "C:\\Users\\thebr\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

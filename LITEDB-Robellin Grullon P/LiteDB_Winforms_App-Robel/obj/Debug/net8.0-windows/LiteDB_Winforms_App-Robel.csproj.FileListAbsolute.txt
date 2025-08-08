@@ -1,0 +1,38 @@
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.csproj.AssemblyReference.cache
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App_Robel.Form1.resources
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.csproj.GenerateResource.cache
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.AssemblyInfoInputs.cache
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.AssemblyInfo.cs
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.csproj.CoreCompileInputs.cache
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\bin\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.exe
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\bin\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.deps.json
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\bin\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.runtimeconfig.json
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\bin\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.dll
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\bin\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.pdb
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\bin\Debug\net8.0-windows\LiteDB.dll
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_W.E93721A6.Up2Date
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.dll
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\refint\LiteDB_Winforms_App-Robel.dll
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.pdb
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.genruntimeconfig.cache
+C:\Users\thebr\source\repos\LiteDB_Winforms_App-Robel\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\ref\LiteDB_Winforms_App-Robel.dll
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\bin\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.exe
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\bin\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.deps.json
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\bin\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.runtimeconfig.json
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\bin\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.dll
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\bin\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.pdb
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\bin\Debug\net8.0-windows\LiteDB.dll
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.csproj.AssemblyReference.cache
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App_Robel.Form1.resources
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.csproj.GenerateResource.cache
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.AssemblyInfoInputs.cache
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.AssemblyInfo.cs
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.csproj.CoreCompileInputs.cache
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_W.E93721A6.Up2Date
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.dll
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\refint\LiteDB_Winforms_App-Robel.dll
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.pdb
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\LiteDB_Winforms_App-Robel.genruntimeconfig.cache
+C:\Users\thebr\Desktop\Programa para grabar elementos\LiteDB_Winforms_App-Robel\obj\Debug\net8.0-windows\ref\LiteDB_Winforms_App-Robel.dll
